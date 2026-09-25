@@ -20,4 +20,3 @@ Vari izmantot `sum`, `len`, `max` un `min`. Sekmīgo vērtējumu skaitīšanai i
 1. `Pievienots vērtējumu saraksts`
 2. `Aprēķināts vidējais vērtējums`
 3. `Pievienota vērtējumu analīze`
-
